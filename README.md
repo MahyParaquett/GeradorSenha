@@ -7,6 +7,7 @@
    <li>React Native</li>
    <li>Java Script</li>
    <li>Expo</li>
+   <li>Async Storage</li>
    <li>VS Code</li>
    <li>Extensão do Google Chrome simulador de celular (para vizualizar a aplicação)</li>
  </ul>
