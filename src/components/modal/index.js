@@ -17,7 +17,7 @@ export function ModalPassword({ password, handleClose }) {
     //salva no storage
     await saveItem("@pass", password);
 
-    alert("Senha copiada com sucesso!");
+    alert("Senha copiada e salva com sucesso!");
 
     handleClose();
   }
